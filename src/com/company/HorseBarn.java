@@ -5,9 +5,10 @@ public interface Horse
 {
     String getName();
     // int getWeight();
+    //make seperate file
 }
 
-public class horse extends HorseBarn
+public class horse
 {
     private String name;
     private int weight;
