@@ -20,7 +20,7 @@ public class Main {
             barn.consolidate();
 
             System.out.println(barn);
-            System.out.println(" Dustry trail is now in space: " + barn.findHorseSpace("Dusty Trail"))
+            System.out.println(" Dusty trail is now in space: " + barn.findHorseSpace("Dusty Trail"));
 
         }
 }
